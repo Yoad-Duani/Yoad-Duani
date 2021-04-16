@@ -1,6 +1,6 @@
 #### Hello I’m Yoad Duani,
 
-I am currently interested in mobile development in flutter,
+**I am currently interested in mobile development in flutter,**
 
 I have experience in:
 * c#

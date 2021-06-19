@@ -1,5 +1,5 @@
 <p align="center">
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/Yoad-Duani/Yoad-Duani.png)
 </p>
 
 

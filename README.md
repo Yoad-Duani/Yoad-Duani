@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/BE1QLtM" height="350" width="100%" />
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 </p>
 
 

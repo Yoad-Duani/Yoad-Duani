@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.ibb.co/hgCwZ7H/YOAD-DUANI-2.png"/>
 </p>
+![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyoad-duani-1b58091b3%2F)
 
 <img src="https://img.shields.io/badge/-*text*-1572B6?style=flat-square&logo=*language*" height="25" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25" />

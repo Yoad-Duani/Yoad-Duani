@@ -3,6 +3,7 @@
 </p>
 
 <img src="https://img.shields.io/badge/-*text*-1572B6?style=flat-square&logo=*language*" height="25" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25" />
 
 
 #### Hello I’m Yoad Duani,

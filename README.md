@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://ibb.co/x3ZLn62" height="350" width="80%" />
+</p>
+
+
+
 #### Hello I’m Yoad Duani,
 
 **I am currently interested in mobile development in flutter,**

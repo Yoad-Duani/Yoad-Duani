@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/d2nTmn9/YOAD-DUANI-1.png"/>
+  <img src="https://i.ibb.co/d2nTmn9/YOAD-DUANI-1.png" width="120%"/>
 </p>
 
 <img src="https://img.shields.io/badge/-*text*-1572B6?style=flat-square&logo=*language*" height="25" />

@@ -1,5 +1,5 @@
 <p align="center">
-<img align="left" width="100" height="100" src="https://i.ibb.co/WsC5rfH/YOAD-DUANI.png">
+  <img src="https://i.ibb.co/WsC5rfH/YOAD-DUANI.png" height="350" width="80%" />
 </p>
 
 

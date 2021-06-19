@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/hgCwZ7H/YOAD-DUANI-2.png"/>
 </p>
 
-[![Linkedin URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyoad-duani-1b58091b3%2F)](https://www.linkedin.com/in/yoad-duani-1b58091b3/)
+[![Linkedin URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyoad-duani-1b58091b3%2F)](https://www.linkedin.com/in/yoad-duani-1b58091b3/) &nbsp;&nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/Yoad-Duani?style=social)
  
 
 

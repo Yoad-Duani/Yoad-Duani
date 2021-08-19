@@ -13,12 +13,13 @@
 
 #### Hello I’m Yoad Duani,
 
-**I am currently interested in mobile development in flutter,**
+**I am currently interested in python development  and mobile development in flutter,**
 
 I have experience in:
 * c#
 * python
-* and little in front end(html css js)
+* flutter
+* front end(html css js)
 
 **If you liked my works, please give a star, thank you.**
 

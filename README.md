@@ -4,7 +4,9 @@
 
 [![Linkedin URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyoad-duani-1b58091b3%2F)](https://www.linkedin.com/in/yoad-duani-1b58091b3/) &nbsp;&nbsp;  &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=Yoad-Duani)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yoad-Duani&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yoad-Duani&show_icons=true) &nbsp; 
+![Your Repository's lag](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoad-Duani)
+
 
  
 

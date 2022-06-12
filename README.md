@@ -12,16 +12,18 @@
 
 
 
-
 #### Hello I’m Yoad Duani,
+I have experience in the IT field
+<br/>
+I am currently interested in python development  and mobile development in flutter,
+<br/>
+Currently focusing on development at backend
 
-**I am currently interested in python development  and mobile development in flutter,**
+**I have experience in:**
+* Python, C#, Flutter(dart), Java
+* postgresql, mysql, firebase, 
+* Networks, Docker, Kubernetes, and more
 
-I have experience in:
-* c#
-* python
-* flutter
-* front end(html css js)
 
 **If you liked my works, please give a star, thank you.**
 

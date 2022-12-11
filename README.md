@@ -1,5 +1,5 @@
 <p >
-  <img src="https://i.ibb.co/hgCwZ7H/YOAD-DUANI-2.png"/>
+  <img src="https://i.ibb.co/MgGnV1s/logoy.png"/>
 </p>
 
 [![Linkedin URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyoad-duani-1b58091b3%2F)](https://www.linkedin.com/in/yoad-duani-1b58091b3/) &nbsp;&nbsp;  &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=Yoad-Duani)
